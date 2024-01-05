@@ -1,17 +1,13 @@
-# account_book
-
-A new Flutter project.
+# My家計簿モバイルアプリ
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone codes in your local then run:
+`flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## Version
+Flutter 3.16.5
+Dart 3.2.3
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# account-book
+Android 11+ (APIレベル: 30)
+iOS 15+
