@@ -1,0 +1,14 @@
+{
+  "appBar": {
+    "inputNewScreen": "",
+    "calendarScreen": "",
+    "budgetScreen": "",
+    "menuScreen": ""
+  },
+  "bottomNavigationBar": {
+    "inputNewScreen": "入力",
+    "calendarScreen": "日付",
+    "budgetScreen": "予算",
+    "menuScreen": "メニュー"
+  }
+}
