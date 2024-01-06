@@ -1,0 +1,4 @@
+enum InputType {
+  expenses,
+  income,
+}

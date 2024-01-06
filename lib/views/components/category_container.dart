@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class BudgetScreen extends StatelessWidget {
-  const BudgetScreen({super.key});
+class CategoryContainer extends StatelessWidget {
+  const CategoryContainer({super.key});
 
   @override
   Widget build(BuildContext context) {
